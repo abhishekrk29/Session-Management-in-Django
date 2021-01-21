@@ -32,7 +32,7 @@ python manage.py runserver
 # For Admin Password
 contact: https://www.linkedin.com/in/abhishekrk29/
 
-# freeze requirements
+# Freeze Project requirements
 
 pip3 freeze > requirements.txt
 
